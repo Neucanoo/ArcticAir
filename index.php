@@ -63,7 +63,7 @@
 		<div id="header-smoke"></div>
 		<div class="header-img" id="header-img-snow-f"></div>
 		<div id="header-content">
-			<h1>ArcticAir1<br><span>Best Frion</span></h1>
+			<h1>ArcticAir<br><span>Best Frion</span></h1>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Etiam euismod varius euismod. Lorem ipsum dolor sit ametv</p>
 			<a class="btn blue" href="#anchor-makeorder">Сделать заказ</a>
 		</div>
